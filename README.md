@@ -1,6 +1,9 @@
 # Intelligent-Pacman
 **Online edX.org course about AI**
 
+**Project 0:**  
+- Python tutorial
+
 **Project 1:**  
 - Different goals, e.g. go to every corner, get every piece of food
 - Implemented DFS, BFS, A* search (using heuristics)
